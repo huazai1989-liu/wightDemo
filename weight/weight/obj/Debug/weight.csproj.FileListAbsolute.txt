@@ -15,3 +15,12 @@ D:\liujianhua\cloudSpoon\weight\weight\bin\Debug\weight.pdb
 D:\liujianhua\cloudSpoon\weight\weight\obj\Debug\weight.Form1.resources
 D:\liujianhua\cloudSpoon\weight\weight\obj\Debug\weight.Properties.Resources.resources
 D:\liujianhua\cloudSpoon\weight\weight\obj\Debug\weight.csproj.GenerateResource.Cache
+D:\liujianhua\git\weight\weight\bin\Debug\weight.exe.config
+D:\liujianhua\git\weight\weight\obj\Debug\weight.exe
+D:\liujianhua\git\weight\weight\obj\Debug\weight.pdb
+D:\liujianhua\git\weight\weight\bin\Debug\weight.exe
+D:\liujianhua\git\weight\weight\bin\Debug\weight.pdb
+D:\liujianhua\git\weight\weight\obj\Debug\weight.csprojResolveAssemblyReference.cache
+D:\liujianhua\git\weight\weight\obj\Debug\weight.Form1.resources
+D:\liujianhua\git\weight\weight\obj\Debug\weight.Properties.Resources.resources
+D:\liujianhua\git\weight\weight\obj\Debug\weight.csproj.GenerateResource.Cache
