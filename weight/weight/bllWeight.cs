@@ -6,7 +6,7 @@ namespace nSbllWeight
 {
     public class bllWeight
     {
-        public static float f_weight = 0.04f;
+        public static float f_weight = 0.05f;
         public static uint l_weight = 0;
         public static ushort short_w = 0;
         public static ushort short_point = 0;
